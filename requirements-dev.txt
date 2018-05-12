@@ -10,4 +10,10 @@ six==1.11.0
 attrs==18.1.0
 pluggy==0.6.0
 pytest==3.5.1
+
+
+#Converage
+coverage==4.5.1
+pytest-cov==2.5.1
+
 -r requirements.txt

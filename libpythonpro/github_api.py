@@ -1,13 +1,17 @@
 import requests
 
 
-def buscar_avatar(usuario):
+def avatar_seeker(user):
     """
-    Busca o avatar de um usuário no Github
+    Seek for user's avatar in github
 
-    :param usuario: str com o nome de usuário no github
-    :return: str com o link do avatar
+    :param user: users name in github
+    :return: avatar image url
     """
-    url = f'https://api.github.com/users/{usuario}'
+
+    url = f'https://api.github.com/users/{user}'
     resp = requests.get(url)
     return resp.json()['avatar_url']
+
+if __name__ == '__main__':
+    print(avatar_seeker('paulobueno'))

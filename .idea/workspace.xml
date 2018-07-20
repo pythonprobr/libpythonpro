@@ -37,8 +37,18 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="30">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="github_api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libpythonpro/github_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -122,11 +132,6 @@
           <expand>
             <path>
               <item name="libpythonpro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="libpythonpro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="libpythonpro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="libpythonpro" type="462c0819:PsiDirectoryNode" />
               <item name="libpythonpro" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -217,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532054601795</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adjusting Travis config file&#10;&#10;close #1">
+      <created>1532055057544</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1532055057544</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -251,7 +263,8 @@
     <MESSAGE value="Finished installing libs from PIP" />
     <MESSAGE value="Finished flake8 class" />
     <MESSAGE value="Inserted Travis-CI&#10;&#10;close #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inserted Travis-CI&#10;&#10;close #1" />
+    <MESSAGE value="Adjusting Travis config file&#10;&#10;close #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjusting Travis config file&#10;&#10;close #1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -297,14 +310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libpythonpro/github_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -337,10 +342,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/libpythonpro/github_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
         </state>
       </provider>

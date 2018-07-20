@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="71bcc1de-eaed-4aff-b68d-dfb5a89080ff" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -236,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532055376260</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Removing installation process visualization in Travis">
+      <created>1532055708732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532055708732</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -272,7 +278,8 @@
     <MESSAGE value="Inserted Travis-CI&#10;&#10;close #1" />
     <MESSAGE value="Adjusting Travis config file&#10;&#10;close #1" />
     <MESSAGE value="Removing python 2 from travis verification" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removing python 2 from travis verification" />
+    <MESSAGE value="Removing installation process visualization in Travis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing installation process visualization in Travis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

@@ -13,7 +13,7 @@ pytest==3.5.1
 
 
 #Converage
-coverage==4.5.1
+coverage==4.5.2
 pytest-cov==2.5.1
 
 pytest-mock-1.10.0

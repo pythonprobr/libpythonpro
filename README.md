@@ -33,3 +33,19 @@ Tópicos a serem abordados:
  4. Mock
  5. Pipenv
  
+Resumo do fluxo feature and branch para contribuir em projetos open source:
+1) Faça um fork do repositório para sua conta.
+2) Clone o projeto na sua máquina local;
+3) Adicione o repositório a referencia para o repositório remoto original;
+    *  git remote add \<apelido para repositório remoto\> \<url\>
+4) Faça fetch do repositório remoto do qual o fork foi feito que podemos chamar de upstream;
+    * git fetch \<nome do repositório remoto (upstream)\>
+5) Faça checkout para branch local master gerado a partir do remoto upstream e merge do remoto (ou simplesmente pull);
+    * git checkout master
+6) Criar branch local a partir do master e codificar o que for necessário neste branch;
+7) Comitar e dar push com esse branch remoto;
+8) Faça um pull request;
+9) Se não for aceito e precisar de modificação, modifique localmente e repita a partir do passo 4;  
+10) Sendo aceito, Faça fetch no repositório remoto;
+11) Sendo aceito faça push para o remoto origin do fork minha conta remota.
+        * git push 

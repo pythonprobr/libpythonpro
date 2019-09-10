@@ -1,6 +1,23 @@
 language: python
 python:
   - 3.7
+  - 2.7
+install:
+  - pip install -r requirements-dev.txt
+script:
+  - flake8
+
+
+
+
+
+
+
+
+
+'''language: python
+python:
+  - 3.7
 install:
   - pip install -q pipenv codecov
   - pipenv sync --dev
@@ -8,4 +25,4 @@ script:
   - flake8
   - pytest libpythonpro --cov=libpythonpro
 after_success:
-  - codecov
+  - codecov'''

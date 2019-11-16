@@ -6,4 +6,6 @@ Encinando como contribuir ne projetos codigo aberto!
 
 Link do curso [Python Pro](https://www.python.pro.br/)
 
-1.pip
+Topicos a serem abordados:
+1. Git
+2. Virtualenv

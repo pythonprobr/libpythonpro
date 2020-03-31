@@ -32,4 +32,5 @@ Tópicos a serem abordados:
  3. Pip
  4. Mock
  5. Pipenv
- 
+
+Nesse curso é ensinado a contribuir com projetos de código aberto

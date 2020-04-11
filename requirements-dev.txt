@@ -3,7 +3,6 @@ flake8==3.7.9
 mccabe==0.6.1
 pycodestyle==2.5.0
 pyflakes==2.2.0
-pyflakes==2.1.1
 
 #Deps do pytest
 attrs==19.3.0

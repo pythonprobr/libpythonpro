@@ -6,6 +6,7 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 teste contribuir com projetos de codigo aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
+Link do curso [Python Pro](https://www.python.pro.br/dashboard/)
 
 [![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)
 [![Updates](https://pyup.io/repos/github/pythonprobr/libpythonpro/shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)

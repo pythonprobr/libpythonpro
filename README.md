@@ -3,6 +3,7 @@
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
+teste contribuir com projetos de codigo aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
@@ -32,4 +33,3 @@ Tópicos a serem abordados:
  3. Pip
  4. Mock
  5. Pipenv
- 

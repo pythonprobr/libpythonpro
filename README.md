@@ -4,7 +4,6 @@ Módulo para exemplificar construção de projetos Python no curso PyTools
 
 teste contribuir com projetos de codigo aberto
 
-Link para o curso [Python Pro](https://www.python.pro.br/)
 Link do curso [Python Pro](https://www.python.pro.br/dashboard/)
 
 [![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)

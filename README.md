@@ -2,7 +2,7 @@
 
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
-teste contribuir com projetos de codigo aberto
+curso como contribuir com projetos de codigo aberto
 
 Link do curso [Python Pro](https://www.python.pro.br/dashboard/)
 

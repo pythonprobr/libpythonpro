@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+#contribuição de codigo aberto do Carlos Lira
 # Distribution / packaging
 .Python
 env/

@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 def read(fname):
     return codecs.open(os.path.join(os.path.dirname(__file__), fname)).read()
 
-
+#Ajuda a contribuição de melhor codigo com Carlos Lira
 # Provided as an attribute, so you can append to these instead
 # of replicating them:
 standard_exclude = ["*.py", "*.pyc", "*$py.class", "*~", ".*", "*.bak"]

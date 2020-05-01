@@ -6,6 +6,7 @@ from distutils.util import convert_path
 from fnmatch import fnmatchcase
 from setuptools import setup, find_packages
 """ comentario para request - Carlos Lira """
+""" https://www.python.pro.br/dashboard/"""
 
 def read(fname):
     return codecs.open(os.path.join(os.path.dirname(__file__), fname)).read()

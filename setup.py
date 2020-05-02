@@ -5,12 +5,13 @@ import sys
 from distutils.util import convert_path
 from fnmatch import fnmatchcase
 from setuptools import setup, find_packages
-
+""" comentario para request - Carlos Lira """
+""" https://www.python.pro.br/dashboard/"""
 
 def read(fname):
     return codecs.open(os.path.join(os.path.dirname(__file__), fname)).read()
-
-
+#link do curso (Python Pro) (https://www.python.pro.br/dashboard/)
+#Ajuda a contribuição de melhor codigo com Carlos Lira
 # Provided as an attribute, so you can append to these instead
 # of replicating them:
 standard_exclude = ["*.py", "*.pyc", "*$py.class", "*~", ".*", "*.bak"]

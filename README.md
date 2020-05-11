@@ -34,5 +34,5 @@ Tópicos a serem abordados:
  3. Pip
  4. Mock
  5. Pipenv
- 6.
+ 6. 
  

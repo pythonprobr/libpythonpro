@@ -16,13 +16,15 @@ Suportada versão 3 de Python
 Para instalar:
 
 ```console
-pip install pipenv
-pipenv install --dev
+python3 -m venv .venv
+source .venv/scripts/activate
+pip install -r requirements-dev.txt
 ```
 
 Para conferir qualidade de código:
 
 ```console
+flake8
 pipenv run flake8
 ```
 

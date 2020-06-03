@@ -103,3 +103,7 @@ vaio
 
 # mypy
 .mypy_cache/
+
+# IDE
+.idea/
+.idea

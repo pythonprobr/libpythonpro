@@ -1,3 +1,4 @@
+nesse curso é ensinado como contribuir com o projeto de código aberto
 # libpythonpro
 
 Módulo para exemplificar construção de projetos Python no curso PyTools

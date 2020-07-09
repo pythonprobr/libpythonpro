@@ -1,0 +1,21 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># libpythonpro\n\n```console\nAlteração de teste realizada por Leonardo\n```\nsdkhjaSD\n\n\nMódulo para exemplificar construção de projetos Python no curso PyTools\n\nNesse curso é ensinado como contribuir com projetos de código aberto\n\nLink para o curso [Python Pro](https://www.python.pro.br/)\n\n[![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)\n[![Updates](https://pyup.io/repos/github/pythonprobr/libpythonpro/shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)\n[![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)\n[![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)\n\nSuportada versão 3 de Python\n\nPara instalar:\n\n```console\npip install pipenv\npipenv install --dev\n```\n\nPara conferir qualidade de código:\n\n```console\npipenv run flake8\n```\n\nTópicos a serem abordados:\n 1. Git\n 2. Virtualenv\n 3. Pip\n 4. Mock\n 5. Pipenv\n 
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision 8d29c374292a39b618f340e9390bc1b21f8e307b)
++++ README.md	(date 1594318914958)
+@@ -1,11 +1,5 @@
+ # libpythonpro
+ 
+-```console
+-Alteração de teste realizada por Leonardo
+-```
+-sdkhjaSD
+-
+-
+ Módulo para exemplificar construção de projetos Python no curso PyTools
+ 
+ Nesse curso é ensinado como contribuir com projetos de código aberto

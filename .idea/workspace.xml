@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Teste_de_branch" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55d45298-225a-4456-982a-50da768a572e" name="Default Changelist" comment="Arquivo commitado para o teste do Leonardo">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <list id="499b7c2c-c64f-4b49-954a-139e3b763650" name="Arquivo commitado para o teste do Leonardo" comment="Arquivo commitado para o teste do Leonardo&#10;&#10;(cherry picked from commit 4f2562c98ef72996d4dcad06ee4cc98231cc0e1c)">
+      <changelist_data name="leoschuch" email="leo.schuch@gmail.com" date="1594304520000" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/leoschuch/libpythonpro.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eS9sxvOsw3QGMXLTTStbMFCHyr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55d45298-225a-4456-982a-50da768a572e" name="Default Changelist" comment="" />
+      <created>1594304337503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594304337503</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Arquivo commitado para o teste do Leonardo">
+      <created>1594304520708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594304520708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Arquivo commitado para o teste do Leonardo">
+      <created>1594318835092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594318835092</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Teste_de_branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arquivo commitado para o teste do Leonardo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivo commitado para o teste do Leonardo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="622" y="331" key="#Notifications" timestamp="1594304462862">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="622" y="331" key="#Notifications/38.23.1402.877@38.23.1402.877" timestamp="1594304462862" />
+    <state x="1540" y="-188" width="1872" height="1217" key="DiffContextDialog" timestamp="1594319252076">
+      <screen x="1440" y="-288" width="2560" height="1417" />
+    </state>
+    <state x="1540" y="-188" width="1872" height="1217" key="DiffContextDialog/0.23.1440.877/1440.-288.2560.1417@1440.-288.2560.1417" timestamp="1594319252076" />
+    <state x="1900" y="59" key="MergeDialog" timestamp="1594318915037">
+      <screen x="1440" y="-288" width="2560" height="1417" />
+    </state>
+    <state x="1900" y="59" key="MergeDialog/0.23.1440.877/1440.-288.2560.1417@1440.-288.2560.1417" timestamp="1594318915037" />
+    <state x="2114" y="189" key="MultipleFileMergeDialog" timestamp="1594318915082">
+      <screen x="1440" y="-288" width="2560" height="1417" />
+    </state>
+    <state x="2114" y="189" key="MultipleFileMergeDialog/0.23.1440.877/1440.-288.2560.1417@1440.-288.2560.1417" timestamp="1594318915082" />
+    <state x="1990" y="0" key="Vcs.Push.Dialog.v2" timestamp="1594319398040">
+      <screen x="1440" y="-288" width="2560" height="1417" />
+    </state>
+    <state x="1990" y="0" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-288.2560.1417@1440.-288.2560.1417" timestamp="1594319398040" />
+    <state x="339" y="201" key="Vcs.Push.Dialog.v2/38.23.1402.877@38.23.1402.877" timestamp="1594304527365" />
+    <state x="2224" y="140" key="git4idea.branch.GitSmartOperationDialog" timestamp="1594319052213">
+      <screen x="1440" y="-288" width="2560" height="1417" />
+    </state>
+    <state x="2224" y="140" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.877/1440.-288.2560.1417@1440.-288.2560.1417" timestamp="1594319052213" />
+    <state x="1888" y="316" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594318607774">
+      <screen x="1440" y="-288" width="2560" height="1417" />
+    </state>
+    <state x="1888" y="316" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.877/1440.-288.2560.1417@1440.-288.2560.1417" timestamp="1594318607774" />
+  </component>
+</project>

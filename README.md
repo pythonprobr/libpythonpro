@@ -1,2 +1,2 @@
 # libpythonpro
-Link para o curso [Python Pro](https://www.python.pro.br/) 
+Link para o curso [Python Pro Leo](https://www.python.pro.br/) 

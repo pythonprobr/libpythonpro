@@ -6,7 +6,8 @@ install:
   - pipenv sync --dev
 script:
   - flake8
-  - pytest libpythonpro --cov=libpythonpro
+  - pytest libpythonpro
+  # - pytest libpythonpro --cov=libpythonpro
 after_success:
   - codecov
   - # alterei para a versão 3.7 - PARTE II

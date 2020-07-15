@@ -1,6 +1,6 @@
 language: python
 python:
-  - 3.7
+  - 3.6
 install:
   - pip install -q pipenv codecov
   - pipenv sync --dev
@@ -9,3 +9,4 @@ script:
   - pytest libpythonpro --cov=libpythonpro
 after_success:
   - codecov
+  - # alterei para a versão 3.7

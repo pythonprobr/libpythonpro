@@ -9,3 +9,4 @@ script:
   - pytest libpythonpro --cov=libpythonpro
 after_success:
   - codecov
+  - # teste apenas

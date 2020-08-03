@@ -1,0 +1,7 @@
+language: python
+python:
+  -3.8
+install:
+  - pip install -t tequirements-dev.txt
+script:
+  - flake8

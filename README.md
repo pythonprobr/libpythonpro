@@ -1,10 +1,11 @@
 # libpythonpro
 
+Melhoria no curso
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
-Link para o curso [Python Pro](https://www.python.pro.br/)
+Link para o curso [Python Pro](https://www.python.pro.
 
 [![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)
 [![Updates](https://pyup.io/repos/github/pythonprobr/libpythonpro/shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)

@@ -3,10 +3,7 @@ python:
   - 3.7
   - 3.8
 install:
-  - pip install -q pipenv codecov
-  - pipenv sync --dev
+  - pip install -r requirements-dev.tct
 script:
   - flake8
-  - pytest libpythonpro --cov=libpythonpro
-after_success:
-  - codecov
+

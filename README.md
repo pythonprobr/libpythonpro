@@ -1,6 +1,7 @@
 # libpythonpro
 Exemplificar a construção de projetos Python no curso PyTools Nesse curso é mostrado como contribuir com projetos de código aberto
 Módulo para exemplificar construção de projetos Python no curso PyTools
+aula três ensinando Pull Request. 
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 

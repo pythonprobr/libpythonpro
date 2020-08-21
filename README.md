@@ -33,3 +33,4 @@ Tópicos a serem abordados:
  4. Mock
  5. Pipenv
  
+ # Data 21 de Agosto 2020 - Aula do curso pyton pro Pull Request

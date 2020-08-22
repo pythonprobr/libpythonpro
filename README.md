@@ -11,8 +11,16 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
 [![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
 
-Suportada versão 3 de Python
 
+Tópicos a serem abordados:
+ 1. Git
+ 2. Virtualenv
+ 3. Pip
+ 4. Mock
+ 5. Pipenv
+ 
+Data 21 de Agosto 2020 - Aula do curso pyton pro Pull Request
+Suportada Versão 3.0 de python
 Para instalar:
 
 ```console
@@ -25,13 +33,16 @@ Para conferir qualidade de código:
 ```console
 pipenv run flake8
 ```
-
-Tópicos a serem abordados:
- 1. Git
- 2. Virtualenv
- 3. Pip
- 4. Mock
- 5. Pipenv
  
-Data 21 de Agosto 2020 - Aula do curso pyton pro Pull Request
-Suportada Versão 3.0 de python
+
+```
+Console
+$ python3 -m venv .venv
+$ source .venv/bin/activate
+$ pip install -r requirements-dev.txt
+```
+ para conferir qualidade do código
+```
+Console 
+$ flake8
+``` 

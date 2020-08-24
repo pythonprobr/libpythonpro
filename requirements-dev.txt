@@ -11,4 +11,9 @@ attrs==17.4.0
 pluggy==0.6.0
 pyparsing==2.0.2
 pytest==3.5.1
+
+#Converger
+coverage==5.2.1
+pytest-cov==2.10.1
+
 -r requirements.txt

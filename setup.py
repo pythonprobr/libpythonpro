@@ -1,3 +1,4 @@
+"""Exemplo para testar conceitos do git."""
 import codecs
 import os
 import sys
@@ -8,6 +9,11 @@ from setuptools import setup, find_packages
 
 
 def read(fname):
+    """
+    Módulo read.
+
+    return: leitura de arquivo
+    """
     return codecs.open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 
@@ -19,11 +25,14 @@ standard_exclude_directories = [
 ]
 
 
-# (c) 2005 Ian Bicking and contributors; written for Paste (http://pythonpaste.org)
-# Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+# (c) 2005 Ian Bicking and contributors; written for Paste
+# (http://pythonpaste.org)
+# Licensed under the MIT license:
+# http://www.opensource.org/licenses/mit-license.php
 # Note: you may want to copy this into your setup.py file verbatim, as
 # you can't import this from another package, when you don't know if
 # that package is installed yet.
+
 def find_package_data(
         where=".",
         package="",

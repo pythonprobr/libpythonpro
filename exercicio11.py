@@ -26,7 +26,7 @@ def calcula_aumento(salario):
     """Retorna taxa e aumento."""
     if salario <= 280:
         taxa = faixas['f1']
-    elif salario < 700:
+    elif salario <= 700:
         taxa = faixas['f2']
     elif salario < 1500:
         taxa = faixas['f3']

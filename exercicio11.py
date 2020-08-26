@@ -1,9 +1,6 @@
 """
 Programa para calcular reajuste de salário.
 
-Parametros: salário
-Return: reajuste
-
 Critério, baseado no salário atual:
 salários até R$ 280,00 (incluindo) : aumento de 20%
 salários entre R$ 280,00 e R$ 700,00 : aumento de 15%

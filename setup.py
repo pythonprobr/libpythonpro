@@ -92,7 +92,8 @@ def find_package_data(
                         new_package = package + "." + name
                     stack.append((fn, "", new_package, False))
                 else:
-                    stack.append((fn, prefix + name + "/", package, only_in_packages))
+                    stack.append((fn, prefix + name + "/",
+                                  package, only_in_packages))
             elif package or not only_in_packages:
                 # is a file
                 bad_name = False
@@ -112,7 +113,8 @@ def find_package_data(
 
 PACKAGE = "libpythonpro"
 NAME = PACKAGE
-DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
+DESCRIPTION = """Módulo para exemplificar construção de projetos Python no
+                 curso PyTools"""
 AUTHOR = "Renzo Nuccitelli"
 AUTHOR_EMAIL = "renzo@python.pro.br"
 URL = "https://github.com/pythonprobr/libpythonpro"
@@ -134,7 +136,8 @@ setup(
         "Development Status :: 2 - Pre-Alpha",
         "Environment :: Console",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
+        "License :: OSI Approved :: GNU Affero General Public License v3 or"
+        "later (AGPLv3+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
         "Programming Language :: Python :: 3.6",

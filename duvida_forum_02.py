@@ -1,7 +1,7 @@
-contagem = ('zero', 'um', 'dois', 'três', 'quatro', 
-            'cinco', 'seis', 'sete', 'oito', 'nove', 
-            'dez', 'onze', 'doze', 'treze', 'quatorze', 
-            'quinze', 'dezesseis', 'dezessete', 'dezoito', 
+contagem = ('zero', 'um', 'dois', 'três', 'quatro',
+            'cinco', 'seis', 'sete', 'oito', 'nove',
+            'dez', 'onze', 'doze', 'treze', 'quatorze',
+            'quinze', 'dezesseis', 'dezessete', 'dezoito',
             'dezenove', 'vinte')
 
 num = int(input('Digite um número de 0 à 20: '))

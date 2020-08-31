@@ -1,4 +1,4 @@
-# Ambiente dev
+# Ambiente desenvolvimento
 
 ## flake8
 flake8==3.8.3

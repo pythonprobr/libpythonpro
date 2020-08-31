@@ -1,4 +1,4 @@
-# Ambiente desenvolvimento    
+# Ambiente desenvolvimento
 
 ## flake8
 flake8==3.8.3
@@ -9,7 +9,7 @@ pyflakes==2.2.0
 
 ## Dependencias pytest
 pytest==6.0.1
-
+pytest-cov==2.10.1
 atomicwrites==1.4.0
 attrs==20.1.0
 colorama==0.4.3
@@ -23,5 +23,6 @@ pyparsing==2.4.7
 six==1.15.0
 toml==0.10.1
 zipp==3.1.0
+coverage==5.2.1
 
 -r requirements.txt

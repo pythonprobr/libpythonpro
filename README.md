@@ -34,3 +34,8 @@ Tópicos a serem abordados:
  5. Pipenv
  
  Acrescentando uma melhoria para um codigo aberto
+
+ Link dos exercicios [PythonExercicios][https://wiki.python.org.br/ListaDeExercicios]
+
+ 
+

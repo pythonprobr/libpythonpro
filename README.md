@@ -35,7 +35,7 @@ Tópicos a serem abordados:
  
  Acrescentando uma melhoria para um codigo aberto
 
- Link dos exercicios [PythonExercicios][https://wiki.python.org.br/ListaDeExercicios]
+ Link dos exercicios [PythonExercicios](https://wiki.python.org.br/ListaDeExercicios)
 
  
 

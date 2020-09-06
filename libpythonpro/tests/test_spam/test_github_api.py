@@ -1,3 +1,4 @@
+"""Teste do módulo github_api."""
 from unittest.mock import Mock
 
 import pytest

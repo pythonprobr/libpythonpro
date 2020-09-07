@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Teste de comutação
 
+Link para o curso [Python Pro] (https://www.python.pro.br/)
+
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)

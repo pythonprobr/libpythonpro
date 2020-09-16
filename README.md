@@ -4,6 +4,10 @@ Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
+O curso tambem vai te ensinar a trabalhar tanto com a linguagem Python com vai
+
+te passar um amplo conhecimento de Github
+
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)

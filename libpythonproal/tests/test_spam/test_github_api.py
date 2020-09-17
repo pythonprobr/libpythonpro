@@ -2,7 +2,7 @@ from unittest.mock import Mock
 
 import pytest
 
-from libpythonpro import github_api
+from libpythonproal import github_api
 
 
 @pytest.fixture
@@ -13,7 +13,7 @@ def avatar_url(mocker):
         'login': 'renzo', 'id': 402714,
         'avatar_url': url,
     }
-    get_mock = mocker.patch('libpythonpro.github_api.requests.get')
+    get_mock = mocker.patch('libpythonproal.github_api.requests.get')
     get_mock.return_value = resp_mock
     return url
 

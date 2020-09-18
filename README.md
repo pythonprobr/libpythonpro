@@ -8,15 +8,10 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
-[![Build Status](https://travis-ci.org/antoniolins/libpythonpro.svg?branch=master)](https://travis-ci.org/antoniolins/libpythonpro)
-[![Updates](https://pyup.io/repos/github/antoniolins/libpythonpro/shield.svg)](https://pyup.io/repos/github/antoniolins/libpythonpro/)
-[![Python 3](https://pyup.io/repos/github/antoniolins/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/antoniolins/libpythonpro/)
-
-[![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)
-[![Updates](https://pyup.io/repos/github/pythonprobr/libpythonpro/shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
-[![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
-[![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
-
+[![Build Status](https://travis-ci.org/antoniolins/libpythonproal.svg?branch=master)](https://travis-ci.org/antoniolins/libpythonproal)
+[![Updates](https://pyup.io/repos/github/antoniolins/libpythonproal/shield.svg)](https://pyup.io/repos/github/antoniolins/libpythonproal/)
+[![Python 3](https://pyup.io/repos/github/antoniolins/libpythonproal/python-3-shield.svg)](https://pyup.io/repos/github/antoniolins/libpythonproal/)
+[![codecov](https://codecov.io/gh/antoniolins/libpythonproal/branch/master/graph/badge.svg)](https://codecov.io/gh/antoniolins/libpythonproal)
 Suportada versão 3 de Python
 
 Para instalar:

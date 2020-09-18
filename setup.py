@@ -106,7 +106,7 @@ NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Antonio Lins"
 AUTHOR_EMAIL = "antoniolins@uol.com.br"
-URL = "https://github.com/antoniolins/libpythonpro"
+URL = "https://github.com/antoniolins/libpythonproal"
 VERSION = __import__(PACKAGE).__version__
 
 setup(

@@ -6,4 +6,5 @@ install:
   - pip install -q -r requirements-dev.txt
 script:
   - flake8
+  - pytest libpythonpro
 

@@ -4,7 +4,7 @@ pycodestyle==2.6.0
 pyflakes==2.2.0
 
 # Deps do pytest
-pluggy
+pluggy==0.13.1
 iniconfig
 toml
 packaging

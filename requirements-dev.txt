@@ -1,18 +1,18 @@
-flake8==3.8.3
+flake8==3.8.4
 mccabe==0.6.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
 
 # Deps do pytest
-pluggy
+pluggy==0.13.1
 iniconfig
-toml
+toml==0.10.1
 packaging
 more-itertools>=4.0.0
 attrs>=17.4.0
 py>=1.8.2
 pyparsing>=2.0.2
-six
+six==1.15.0
 pytest
 
 #Coverage

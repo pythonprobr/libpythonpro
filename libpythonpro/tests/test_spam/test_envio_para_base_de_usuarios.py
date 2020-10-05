@@ -2,8 +2,10 @@ from unittest.mock import Mock
 
 import pytest
 
+from libpythonpro.spam.enviador_de_email import Enviador
 from libpythonpro.spam.main import EnviadorDeSpam
 from libpythonpro.spam.modelos import Usuario
+
 
 
 @pytest.mark.parametrize(
@@ -43,6 +45,14 @@ def test_parametros_de_spam(sessao):
     )
     enviador.enviar.assert_called_once_with(
         'luciano@python.pro.br',
+        'renzo@python.pro.br',
+        'Curso Python Pro',
+        'Confira os módulos fantásticos'
+    )
+
+def test_envio_de_spam(sessao):
+    enviador_de_spam = EnviadorDeSpam(sessao, Enviador())
+    enviador_de_spam.enviar_emails(
         'renzo@python.pro.br',
         'Curso Python Pro',
         'Confira os módulos fantásticos'

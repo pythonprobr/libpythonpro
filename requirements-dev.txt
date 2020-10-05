@@ -4,8 +4,8 @@ pycodestyle==2.6.0
 pyflakes==2.2.0
 
 # Deps do pytest
-pluggy
-iniconfig==1.0.1
+pluggy==0.13.1
+iniconfig
 toml
 packaging
 more-itertools>=4.0.0

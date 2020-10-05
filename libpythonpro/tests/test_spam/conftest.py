@@ -4,6 +4,7 @@ from libpythonpro.spam.db import Conexao
 
 
 @pytest.fixture(scope='session')
+# options for scope 'function', 'module' or 'session'
 def conexao():
     # Setup
     conexao_obj = Conexao()
@@ -14,7 +15,10 @@ def conexao():
 
 @pytest.fixture
 def sessao(conexao):
+    # Setup
     sessao_obj = conexao.gerar_sessao()
     yield sessao_obj
+    # Tear Down
     sessao_obj.roll_back()
     sessao_obj.fechar()
+

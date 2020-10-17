@@ -18,12 +18,16 @@ Para instalar:
 ```console
 pip install pipenv
 pipenv install --dev
+ou
+python -m venv .venv
+source .venv/Scripts/activate
+pip install -r requirements-dev.txt
 ```
 
 Para conferir qualidade de código:
 
 ```console
-pipenv run flake8
+flake8
 ```
 
 Tópicos a serem abordados:

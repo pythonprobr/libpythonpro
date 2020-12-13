@@ -186,11 +186,10 @@
         },
         "pytest": {
             "hashes": [
-                "sha256:4a784f1d4f2ef198fe9b7aef793e9fa1a3b2f84e822d9b3a64a181293a572d45",
-                "sha256:926855726d8ae8371803f7b2e6ec0a69953d9c6311fa7c3b6c1b929ff92d27da"
+                "sha256:b12e09409c5bdedc28d308469e156127004a436b41e9b44f9bff6446cbab9152",
+                "sha256:d69e1a80b34fe4d596c9142f35d9e523d98a2838976f1a68419a8f051b24cec6"
             ],
-            "index": "pypi",
-            "version": "==4.6.3"
+            "version": "==6.2.0"
         },
         "pytest-cov": {
             "hashes": [

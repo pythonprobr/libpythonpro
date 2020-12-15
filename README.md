@@ -6,7 +6,7 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
-[![Build Status](https://www.travis-ci.org/JameicaAlvarenga/libpythonpro.svg?branch=master)](https://www.travis-ci.org/JameicaAlvarenga/libpythonpro)
+[![Build Status](https://travis-ci.com/JameicaAlvarenga/libpythonpro.svg?branch=master)](https://travis-ci.com/JameicaAlvarenga/libpythonpro)
 
 Suportada versão 3 de Python
 

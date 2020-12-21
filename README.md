@@ -8,6 +8,8 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/JameicaAlvarenga/libpythonpro.svg?branch=master)](https://travis-ci.org/JameicaAlvarenga/libpythonpro)
 
+
+
 Suportada versão 3 de Python
 
 Para instalar:

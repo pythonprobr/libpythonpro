@@ -97,7 +97,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = JNBAlibpythonpro
 DESCRIPTION = "Módulo para exemplificar constrção de projetos Python no curso Pytools"
 AUTHOR = "Jameica Alvarenga"
 AUTHOR_EMAIL = "jnbrag@gmail.com"
@@ -124,7 +124,7 @@ setup(
         "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
-        "Programming Language :: Python 3",
+        "Programming Language :: Python 3.8",
         "Framework :: Pytest",
     ],
     install_requires=[

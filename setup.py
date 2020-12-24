@@ -96,7 +96,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
+PACKAGE = "jnbalibpythonpro"
 NAME = 'jnbalibpythonpro'
 DESCRIPTION = "Módulo para exemplificar constrção de projetos Python no curso Pytools"
 AUTHOR = "Jameica Alvarenga"
@@ -113,7 +113,7 @@ setup(
     long_description_content_type='text/markdow',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
-    license="BSD",
+    license=read('LICENSE'),
     url=URL,
     packages=find_packages(exclude=["tests.*", "tests"]),
     package_data=find_package_data(PACKAGE, only_in_packages=False),

@@ -2,4 +2,14 @@ flake8==3.8.4
 mccabe==0.6.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
+
+#Deps do pytest
+attrs==19.2.0
+py==1.8.2
+pluggy==1.0
+pytest==6.2.1
+six==1.15.0
+toml==0.10.2
+tqdm==4.54.1
+
 -r requirements.txt

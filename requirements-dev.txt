@@ -11,4 +11,11 @@ pytest==6.2.1
 six==1.15.0
 toml==0.10.2
 tqdm==4.54.1
+
+
+
+#Covererage
+coverage==5.3.1
+pypytest-cov==2.10.1
+
 -r requirements.txt

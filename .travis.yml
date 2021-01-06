@@ -7,4 +7,4 @@ python:
 install:
   - pip install -q -r requirements-dev.txt
 script:
-  - pytest libpythonpro-jnba
+  - pytest libpythonpro-jnba --cov libpythonpro

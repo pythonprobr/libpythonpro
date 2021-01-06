@@ -5,6 +5,8 @@ sudo: true
 python:
   - 3.8
 install:
-  - pip install -q -r requirements-dev.txt
+  - pip install -q -r requirements-dev.txt codecov
 script:
   - pytest libpythonpro-jnba --cov libpythonpro
+after_success:
+  - codecov

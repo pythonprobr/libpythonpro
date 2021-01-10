@@ -12,8 +12,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
 
 Suportada versão 3 de Python
-
-Para instalar:
+Para instalar (siga os passos abaixo):
 
 ```console
 pip install pipenv

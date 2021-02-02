@@ -34,26 +34,19 @@ def find_package_data(
     """
     Return a dictionary suitable for use in ``package_data``
     in a distutils ``setup.py`` file.
-
     The dictionary looks like::
-
         {"package": [files]}
-
     Where ``files`` is a list of all the files in that package that
     don"t match anything in ``exclude``.
-
     If ``only_in_packages`` is true, then top-level directories that
     are not packages won"t be included (but directories under packages
     will).
-
     Directories matching any pattern in ``exclude_directories`` will
     be ignored; by default directories with leading ``.``, ``CVS``,
     and ``_darcs`` will be ignored.
-
     If ``show_ignored`` is true, then all the files that aren"t
     included in package data are shown on stderr (for debugging
     purposes).
-
     Note patterns use wildcards, or can be exact paths (including
     leading ``./``), and all searching is case-insensitive.
     """
@@ -101,12 +94,12 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
-NAME = PACKAGE
+PACKAGE = "libpythonpro-jnba"
+NAME = 'libpythonpro-jnba'
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
-AUTHOR = "Renzo Nuccitelli"
-AUTHOR_EMAIL = "renzo@python.pro.br"
-URL = "https://github.com/pythonprobr/libpythonpro"
+AUTHOR = "Jameica Alvarenga"
+AUTHOR_EMAIL = "jnbrag@gmail.com"
+URL = "https://github.com/JameicaAlvarenga/libpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
@@ -117,7 +110,7 @@ setup(
     long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
-    license="GNU AFFERO GENERAL PUBLIC LICENSE",
+    license=read('LICENSE'),
     url=URL,
     packages=find_packages(exclude=["tests.*", "tests"]),
     package_data=find_package_data(PACKAGE, only_in_packages=False),
@@ -128,7 +121,7 @@ setup(
         "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.8",
         "Framework :: Pytest",
     ],
     install_requires=[

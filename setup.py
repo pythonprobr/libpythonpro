@@ -94,8 +94,8 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro-jnba"
-NAME = 'libpythonpro-jnba'
+PACKAGE = "libpythonpro"
+NAME = 'libpythonpro'
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Jameica Alvarenga"
 AUTHOR_EMAIL = "jnbrag@gmail.com"

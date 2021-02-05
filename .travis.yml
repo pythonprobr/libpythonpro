@@ -7,6 +7,6 @@ python:
 install:
   - pip install -q -r requirements-dev.txt codecov
 script:
-  - pytest libpythonpro-jnba --cov libpythonpro
+  - pytest libpythonpro --cov libpythonpro
 after_success:
   - codecov

@@ -3,15 +3,15 @@ class Sessao:
     usuarios=[]
 
     def salvar(self, usuario):
-        Sessao.contador +=1
+        Sessao.contador += 1
         usuario.id = Sessao.contador
         self.usuarios.append(usuario)
 
     def listar(self):
-        return self.listar()
+        return self.usuarios
 
     def roll_back(self):
-        pass
+        self.usuarios.clear()
 
     def fechar(self):
         pass

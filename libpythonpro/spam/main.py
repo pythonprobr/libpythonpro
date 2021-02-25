@@ -1,0 +1,2 @@
+class EnviadorDeSpam(object):
+    pass

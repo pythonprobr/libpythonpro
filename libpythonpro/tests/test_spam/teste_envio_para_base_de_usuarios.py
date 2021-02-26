@@ -46,7 +46,7 @@ def test_qde_de_spam(sessao, usuarios):
 
 
 def test_parametros_de_spam(sessao):
-    usuario = Usuario(nome='Jame', email='jnbrag@gmail.com.br')
+    usuario = Usuario(nome='Jame', email='jnbrag@gmail.com')
     sessao.salvar(usuario)
     enviador = EnviadorMock()
     enviador_de_spam = EnviadorDeSpam(sessao, enviador)

@@ -1,7 +1,10 @@
 [[source]]
-name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
 
 [dev-packages]
 flake8 = "*"
@@ -10,8 +13,5 @@ coverage = "*"
 pytest-cov = "*"
 pytest-mock = "*"
 
-[packages]
-requests = "*"
-
 [requires]
-python_version = "3.7"
+python_version = "3.8"

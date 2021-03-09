@@ -4,46 +4,55 @@ import pytest
 
 from libpythonpro.spam.main import EnviadorDeSpam
 from libpythonpro.spam.modelos import Usuario
+from libpythonpro.spam.t_enviador_email import Enviador
+from libpythonpro.tests.test_spam.conftest import sessao
+
 
 
 @pytest.mark.parametrize(
     'usuarios',
     [
         [
-            Usuario(nome='Renzo', email='renzo@python.pro.br'),
-            Usuario(nome='Luciano', email='renzo@python.pro.br')
+            Usuario(nome='Jame', email='jnbrag@gmail.com.br'),
+            Usuario(nome='Luciano', email='jnbrag@gmail.com.br')
         ],
         [
-            Usuario(nome='Renzo', email='renzo@python.pro.br')
+            Usuario(nome='Jame', email='jnbrag@gmail.com.br')
         ]
     ]
 )
+
+
+
+
+
 def test_qde_de_spam(sessao, usuarios):
     for usuario in usuarios:
         sessao.salvar(usuario)
     enviador = Mock()
     enviador_de_spam = EnviadorDeSpam(sessao, enviador)
     enviador_de_spam.enviar_emails(
-        'renzo@python.pro.br',
+        'jnnbrag@gmail.com',
         'Curso Python Pro',
-        'Confira os módulos fantásticos'
+        'Excelentes Modulos'
     )
     assert len(usuarios) == enviador.enviar.call_count
 
 
 def test_parametros_de_spam(sessao):
-    usuario = Usuario(nome='Renzo', email='renzo@python.pro.br')
+    usuario = Usuario(nome='Jame', email='jnbrag@gmail.com')
     sessao.salvar(usuario)
     enviador = Mock()
     enviador_de_spam = EnviadorDeSpam(sessao, enviador)
     enviador_de_spam.enviar_emails(
-        'luciano@python.pro.br',
-        'Curso Python Pro',
-        'Confira os módulos fantásticos'
+            'gsealvarenga@gmail.com',
+            'Curso Python Pro',
+            'Excelentes Modulos'
     )
+
     enviador.enviar.assert_called_once_with(
-        'luciano@python.pro.br',
-        'renzo@python.pro.br',
+        'gsealvarenga@gmail.com',
+        'jnbrag@gmail.com',
         'Curso Python Pro',
-        'Confira os módulos fantásticos'
+        'Excelentes Modulos'
     )

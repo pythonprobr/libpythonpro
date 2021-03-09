@@ -1,9 +1,6 @@
-from time import sleep
-
-
 class Sessao:
     contador = 0
-    usuarios = []
+    usuarios=[]
 
     def salvar(self, usuario):
         Sessao.contador += 1
@@ -20,10 +17,7 @@ class Sessao:
         pass
 
 
-class Conexao:
-    def __init__(self):
-        sleep(1)
-
+class Conexao():
     def gerar_sessao(self):
         return Sessao()
 

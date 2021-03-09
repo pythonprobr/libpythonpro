@@ -5,7 +5,8 @@ sudo: true
 python:
   - 3.8
 install:
-  - pip install -q -r requirements-dev.txt codecov
+  - pip install -q pipenv codecov
+  - pipenv sync --dev
 script:
   - pytest libpythonpro --cov libpythonpro
 after_success:

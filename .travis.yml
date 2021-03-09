@@ -7,7 +7,7 @@ install:
   - pip install -q -r requirements-dev.txt CODECOV
 script:
   - flake8
- - pytest libpythonproal --cov=libpythonproal
+  - pytest libpythonproal --cov=libpythonproal
 # CODECOV_TOKEN="08b78a2f-52fd-4d0e-9052-415c64830037"
 
 after_success:

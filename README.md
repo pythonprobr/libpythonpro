@@ -1,4 +1,6 @@
 # libpythonpro
+ 
+novo link para o curso[Python Pro](python.pro.br/)
 
 Módulo para exemplificar construção de projetos Python no curso PyTools
 

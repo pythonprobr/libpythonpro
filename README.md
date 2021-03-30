@@ -37,3 +37,6 @@ Tópicos a serem abordados:
  4. Mock
  5. Pipenv
  
+Tópicos a serem abordados:
+ 1. Git
+ 2. Virtualenv

@@ -1,6 +1,6 @@
 language: python
 python:
-  - 3.9
+  - 3.9.2
 install:
   - pip install -q pipenv codecov
   - pipenv sync --dev

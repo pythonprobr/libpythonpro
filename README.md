@@ -1,8 +1,18 @@
 # libpythonpro
+ 
+
+novo link para o curso[Python Pro](python.pro.br/)
+
+link do curso [Python Pro](https://www.python.pro.br/)
+
+[![Build Status](https://www.travis-ci.org/Flavio123Fal/libpythonpro.svg?branch=master)](https://www.travis-ci.org/Flavio123Fal/libpythonpro)
+
 
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
+
+Exemplificar o uso da ferramenta
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 

@@ -1,5 +1,7 @@
 # libpythonpro
 
+<b>Edição</b>[Leonardo Rosa](https://github.com/Leonardo-Ros/libpythonpro)
+
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto

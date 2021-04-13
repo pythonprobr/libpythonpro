@@ -106,7 +106,7 @@ NAME = PACKAGE
 DESCRIPTION = "Este é apenas um teste com o Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Marcos Viana"
 AUTHOR_EMAIL = "marcospaulo.silvaviana@gmail.com"
-URL = "https://github.com:marcospsviana/libpythonpro"
+URL = "https://github.com/marcospsviana/libpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
 setup(

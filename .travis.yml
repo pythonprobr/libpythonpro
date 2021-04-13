@@ -7,5 +7,5 @@ install:
 script:
   - flake8
   - pytest libpythonpro --testepytest=libpythonpro
-after_success:
-  - codecov
+#after_success:
+#  - codecov

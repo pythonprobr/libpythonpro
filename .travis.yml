@@ -1,13 +1,10 @@
 language: python
-dist: xenial
-sudo: true
-
 python:
   - 3.9
 install:
   - pip install -r requirements-dev.txt codecov
 script:
   - flake8
-  - pytest libpythonpro --cov=libpythonpro
+  - pytest rnupythontools --cov=rnupythontools
 after_success:
   - codecov

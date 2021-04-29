@@ -1,11 +1,10 @@
 language: python
 python:
-  - 3.7
+  - 3.9
 install:
-  - pip install -q pipenv codecov
-  - pipenv sync --dev
+  - pip install -r requirements-dev.txt codecov
 script:
   - flake8
-  - pytest libpythonpro --cov=libpythonpro
+  - pytest rnupythontools --cov=rnupythontools
 after_success:
   - codecov

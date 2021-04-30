@@ -39,4 +39,6 @@ Tópicos a serem abordados:
  link do curso {Python Pro}(https://pythonprobr.appspot.com/)
 
 
- novo commit
+ novo commit dese readme
+ add novos comentarios
+ teste

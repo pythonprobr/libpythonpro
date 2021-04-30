@@ -36,7 +36,7 @@ Tópicos a serem abordados:
 
  linha modificada teste commit and push
 
- link do curso {Python Pro} (https://pythonprobr.appspot.com/)
+ link do curso [Python Pro](https://pythonprobr.appspot.com/)
 
 
  novo commit dese readme

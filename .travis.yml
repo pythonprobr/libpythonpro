@@ -1,11 +1,14 @@
 language: python
 python:
-  - 3.7
+  - 3.8.5
 install:
-  - pip install -q pipenv codecov
-  - pipenv sync --dev
+ # - pip install -q pipenv codecov
+#  - pipenv sync --dev
+  - pip install -q -r requirements-dev-bkp.txt CODECOV
 script:
   - flake8
-  - pytest libpythonpro --cov=libpythonpro
+  - pytest libpythonproal --cov=libpythonproal
+# CODECOV_TOKEN="08b78a2f-52fd-4d0e-9052-415c64830037"
+
 after_success:
   - codecov

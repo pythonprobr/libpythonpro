@@ -1,0 +1,23 @@
+flake8==3.9.0
+mccabe==0.6.1
+pycodestyle==2.7.0
+pyflakes==2.3.1
+
+# Deps do pytest
+attrs==20.3.0
+iniconfig==1.1.1
+more-itertools==8.7.0
+packaging==20.9
+pluggy==0.13.1
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.2
+six==1.15.0
+toml==0.10.2
+
+
+# Converage
+coverage==5.5
+pytest-cov==2.11.1
+
+-r requirements.txt

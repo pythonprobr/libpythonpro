@@ -4,7 +4,7 @@ python:
 install:
  # - pip install -q pipenv codecov
 #  - pipenv sync --dev
-  - pip install -q -r requirements-dev.txt CODECOV
+  - pip install -q -r requirements-dev-bkp.txt CODECOV
 script:
   - flake8
   - pytest libpythonproal --cov=libpythonproal

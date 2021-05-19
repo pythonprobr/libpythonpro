@@ -4,7 +4,7 @@ python:
   - 3.8
   - 3.9
 install:
-  - pip install -r requirements-dev.txt
+  - pip install -q -r requirements-dev.txt
   - pip install -q pipenv codecov
   - pipenv sync --dev
 script:

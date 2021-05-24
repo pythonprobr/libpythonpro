@@ -105,7 +105,7 @@ PACKAGE = "libpythonpro"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Renzo Nuccitelli"
-AUTHOR_EMAIL = "renzo@python.pro.br"
+AUTHOR_EMAIL = "leandro.m.martins.info@gmail.com"
 URL = "https://github.com/pythonprobr/libpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
@@ -128,7 +128,7 @@ setup(
         "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.9",
         "Framework :: Pytest",
     ],
     install_requires=[

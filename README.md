@@ -16,17 +16,18 @@ Link para o curso:
 
 Suportada versão 3 de Python
 
-Para instalar:
+Para instalar no Windows 10:
 
 ```console
-pip install pipenv
-pipenv install --dev
+python3 -m venv .venv
+.venv\Scripts\activate
+pip install -r requeriments-dev.txt
 ```
 
 Para conferir qualidade de código:
 
 ```console
-pipenv run flake8
+flake8
 ```
 
 Tópicos a serem abordados:

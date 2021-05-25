@@ -101,10 +101,10 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
-NAME = PACKAGE
+PACKAGE = "libpythonpro2"
+NAME = 'libpythonpro_lmm'
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
-AUTHOR = "Renzo Nuccitelli"
+AUTHOR = "Leandro41"
 AUTHOR_EMAIL = "leandro.m.martins.info@gmail.com"
 URL = "https://github.com/pythonprobr/libpythonpro"
 VERSION = __import__(PACKAGE).__version__

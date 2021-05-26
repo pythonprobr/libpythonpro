@@ -25,6 +25,13 @@ python3 -m venv .venv
 pip install -r requeriments-dev.txt
 ```
 
+Para conferir qualidade de código (com o venv ativo):
+
+```console
+$ pip install pip-review
+$ pip-review --local --interactive
+```
+
 Para conferir qualidade de código:
 
 ```console

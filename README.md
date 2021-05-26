@@ -25,7 +25,7 @@ python3 -m venv .venv
 pip install -r requeriments-dev.txt
 ```
 
-Para atualizar o Pip (com o venv ativo):
+Para atualizar o Pip  (com o venv ativo):
 
 ```console
 $ pip install pip-review

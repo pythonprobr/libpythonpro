@@ -5,11 +5,11 @@ python:
   - 3.8
   - 3.9
 install:
-  - pip install -q -r requirements-dev.txt
+  - pip install -q -r requirements-dev.txt codecov
   - pip install -q pipenv codecov
   - pipenv sync --dev
 script:
   - flake8
-  - pytest libpythonpro --cov=libpythonpro
+  - pytest libpythonpro2 --cov=libpythonpro2
 after_success:
   - codecov

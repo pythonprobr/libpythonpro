@@ -7,4 +7,3 @@ install:
 script:
   - flake8
   - pytest libpythonpro_fer
-  -

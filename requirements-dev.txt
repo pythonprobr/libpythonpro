@@ -1,5 +1,14 @@
-flake8==3.9.1
+flake8==3.9.2
 mccabe==0.6.1
 pycodestyle==2.7.0
 pyflakes==2.3.1
+
+# Deps do pytest
+py==1.10.0
+attrs==21.2.0
+atomicwrites==1.4.0
+iniconfig==1.1.1
+pluggy==0.13.1
+toml==0.10.2
+pytest==6.2.4
 -r requirements.txt

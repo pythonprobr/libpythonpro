@@ -6,3 +6,4 @@ install:
   - pipenv sync --dev
 script:
   - flake8
+  - pytest libpythonpro_fer

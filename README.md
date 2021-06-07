@@ -26,7 +26,7 @@ pip install -r requeriments-dev.txt
 
 Para atualizar o Pipfile  (com o venv ativo):
 
-```console
+```terminal
 $ pip install pip-review
 $ pip-review --local --interactive
 ```
@@ -37,6 +37,10 @@ Para conferir qualidade de código:
 flake8
 ```
 
+Para atualizar libs:
+```terminal
+$ pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U
+```
 Tópicos a serem abordados:
  1. Git
  2. Virtualenv

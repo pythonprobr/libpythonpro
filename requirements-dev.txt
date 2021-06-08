@@ -1,0 +1,17 @@
+flake8==3.9.2
+mccabe==0.6.1
+pycodestyle==2.7.0
+pyflakes==2.3.1
+
+#Deps do pytest
+py==1.10.0
+attrs==21.2.0
+atomicwrites==1.4.0
+pyparsing==2.4.7
+
+
+#Covarage
+coverage==5.5
+pytest-cov==2.12.1
+
+-r requirements.txt

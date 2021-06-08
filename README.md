@@ -12,16 +12,15 @@ Link para o curso:
 [![Build Status](https://travis-ci.org/geilson25/libpythonpro.svg?branch=master)](https://travis-ci.org/geilson25/libpythonpro)
 [![Updates](https://pyup.io/repos/github/geilson25/libpythonpro/shield.svg)](https://pyup.io/repos/github/geilson25/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
-[![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
+[![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://app.codecov.io/gh/geilson25/libpythonpro)
 
-Suportada versão 3 de Python
 
-Para instalar no Windows 10:
+Para ativar o ambiente virtual no Windows 10 via CMD:
 
 ```console
-python3 -m venv .venv
-.venv\Scripts\activate
-pip install -r requeriments-dev.txt
+> python3 -m venv .venv
+> .venv\Scripts\activate
+(.venv) "C:path de sua aplicação"> pip install -r requeriments-dev.txt
 ```
 
 Para atualizar o Pipfile  (com o venv ativo):

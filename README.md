@@ -1,6 +1,10 @@
 # libpythonpro
 
 Essa porra porra porra porra 
+sdsdsd
+dsdsd
+sds
+
 
 Módulo para exemplificar construção de projetos Python no curso PyTools
 

@@ -1,6 +1,5 @@
 # libpythonpro
-
-teste charles para o projeto
+Não
 
 
 

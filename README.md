@@ -2,6 +2,8 @@
 
 teste charles para o projeto
 
+
+
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
@@ -15,7 +17,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
 
 
-Suportada versão 3 de Python
+Suportada versão 3.9 de Python
 
 Para instalar:
 

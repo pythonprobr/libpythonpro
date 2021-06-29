@@ -1,6 +1,6 @@
 # libpythonpro
 
-Essa porra
+Essa porra 
 
 Módulo para exemplificar construção de projetos Python no curso PyTools
 

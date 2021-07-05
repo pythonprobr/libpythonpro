@@ -4,8 +4,12 @@ Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
-Nova alteração turma Henrique Bastos:
-Tiago Tardelli
+Nova alteração turma 
+
+|      Turma    |     Aluno    |
+|---------------|--------------|
+|Henrique Bastos|Tiago Tardelli|
+|               |              |
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 

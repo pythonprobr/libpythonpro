@@ -4,6 +4,8 @@ Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
+[![Build Status](https://travis-ci.org/leandropinheiroalves/libpythonpro.svg?branch=master)](https://travis-ci.org/leandropinheiroalves/libpythonpro)
+
 Suportada versão 3.8 de python
 
 Para instalar:

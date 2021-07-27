@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/libpythonpro.iml" filepath="$PROJECT_DIR$/.idea/libpythonpro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pycrypto/.idea/pycrypto.iml" filepath="$PROJECT_DIR$/../pycrypto/.idea/pycrypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonBrasil/.idea/pythonBrasil.iml" filepath="$PROJECT_DIR$/../pythonBrasil/.idea/pythonBrasil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../variousCodes/.idea/variousCodes.iml" filepath="$PROJECT_DIR$/../variousCodes/.idea/variousCodes.iml" />
     </modules>
   </component>
 </project>

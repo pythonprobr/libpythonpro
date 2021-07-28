@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/sambi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonBrasil/.idea/pythonBrasil.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libpythonpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libpythonpro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="Changed JDK">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/github_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/github_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pycrypto/margingTrading/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pycrypto/margingTrading/marginTradingCalculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pycrypto/margingTrading/marginTradingCalculation_GUI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonBrasil/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonBrasil/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonBrasil/2. EstruturaDeDecisao/26_exercicio.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pycrypto" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1vj3zM22aFqL1mjNGuFi5QAoayu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,8 +30,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pycrypto" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pycrypto/setup.py" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../pycrypto/setup.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -52,28 +41,7 @@
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\margingTrading" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.setup (1)">
-    <configuration name="5_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonBrasil" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonBrasil/4 ExerciciosListas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonBrasil/4 ExerciciosListas/5_exercicio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.marginTradingCalculation_GUI_v2 (1)">
     <configuration name="7_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonBrasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,7 +63,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="marginTradingCalculation_GUI_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="marginTradingCalculation_GUI_v2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycrypto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="marginTradingCalculation_GUI_v2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pycrypto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.marginTradingCalculation_GUI_v2 (1)" />
         <item itemvalue="Python.setup (1)" />
         <item itemvalue="Python.setup" />
         <item itemvalue="Python.7_exercicio" />
-        <item itemvalue="Python.7_exercicio" />
-        <item itemvalue="Python.5_exercicio" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627062896784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed JDK">
+      <created>1627409597146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627409597146</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

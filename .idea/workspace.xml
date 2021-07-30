@@ -101,9 +101,6 @@
       <module name="pycrypto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -256,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627653299638</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Flake 8 Review">
+      <created>1627683036908</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627683036908</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,7 +280,8 @@
     <MESSAGE value="Changed App Code" />
     <MESSAGE value="Renamed module name" />
     <MESSAGE value="Bug fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug fixed" />
+    <MESSAGE value="Flake 8 Review" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flake 8 Review" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

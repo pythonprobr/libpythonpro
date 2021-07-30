@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="Renamed module name">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../pycrypto/marginTrading/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -255,7 +254,8 @@
     <MESSAGE value="Changed JDK" />
     <MESSAGE value="Changed App Code" />
     <MESSAGE value="Renamed module name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed module name" />
+    <MESSAGE value="Bug fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug fixed" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

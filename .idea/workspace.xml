@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../pycrypto/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/.travis.yml" afterDir="false" />
-    </list>
+    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -287,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627923123691</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627923291055</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627923291055</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

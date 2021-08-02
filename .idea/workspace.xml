@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pycrypto/.idea/pycrypto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/.idea/pycrypto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonBrasil/.idea/pythonBrasil.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonBrasil/.idea/pythonBrasil.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variousCodes/.idea/variousCodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../variousCodes/.idea/variousCodes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycrypto/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627852284976</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627922621520</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627922621520</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,6 +295,7 @@
     <MESSAGE value="Renamed module name" />
     <MESSAGE value="Bug fixed" />
     <MESSAGE value="Flake 8 Review" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flake 8 Review" />
+    <MESSAGE value="Inserido teste com PyTest&#10;&#10;close Issue #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserido teste com PyTest&#10;&#10;close Issue #3" />
   </component>
 </project>

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../pycrypto/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +273,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627922621520</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627922910683</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1627922910683</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627923123691</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627923123691</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

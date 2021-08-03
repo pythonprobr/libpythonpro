@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
+    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="Codecov added to the project&#10;&#10;close #3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycrypto/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../pycrypto" value="testBranch" />
+        <entry key="$PROJECT_DIR$/../pycrypto" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pycrypto" />
@@ -351,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628011354520</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Codecov added to the project&#10;&#10;close #3">
+      <created>1628012055725</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1628012055725</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">

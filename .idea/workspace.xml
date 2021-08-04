@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="" />
+    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_internal/req/constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/distlib/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/idna/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/idna/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +49,7 @@
         <entry key="$PROJECT_DIR$/../pycrypto" value="testBranch" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pycrypto" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../exercises" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -85,11 +94,11 @@
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pythonBrasil\5 ExerciciosFuncoes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\14 - Dev\Python\Projetos\exercises" />
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\marginTrading\tests\test_marginTradingCalc" />
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\marginTrading\tests" />
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\marginTrading\tests\test_marginTradingCalc_GUI" />
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\variousCodes\tests" />
-      <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\variousCodes" />
     </key>
   </component>
   <component name="RunManager" selected="Python.marginTradingCalculation_GUI_v1">
@@ -412,7 +421,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628108804093</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added Exercise Files">
+      <created>1628109143150</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1628109143150</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added Exercise Files">
+      <created>1628109236078</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1628109236078</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">

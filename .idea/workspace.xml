@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_internal/req/constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/distlib/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/idna/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/idna/core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.venv/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycrypto/marginTrading/spam/enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/spam/enviador_de_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam/test_enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,7 @@
         <entry key="$PROJECT_DIR$/../pycrypto" value="testBranch" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../exercises" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pycrypto" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -74,8 +69,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercises" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pycrypto/marginTrading/spam/enviador_de_email.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../pycrypto/setup.py" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -101,7 +96,7 @@
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\variousCodes\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.marginTradingCalculation_GUI_v1">
+  <component name="RunManager" selected="Python tests.pytest for test_enviador_de_email.test_remetente_invalido">
     <configuration name="logicaDeProgramacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="variousCodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,61 +160,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for marginTrading.tests.test_marginTradingCalc_GUI.test_marginTradingCalc_GUI.test_mt_calculation" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_enviador_de_email.test_remetente" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pycrypto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;marginTrading.tests.test_marginTradingCalc_GUI.test_marginTradingCalc_GUI.test_mt_calculation&quot;" />
+      <option name="_new_target" value="&quot;test_enviador_de_email.test_remetente&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_marginTradingCalc_GUI" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_enviador_de_email.test_remetente_invalido" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pycrypto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_marginTradingCalc_GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_marginTradingCalc_GUI&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_enviador_de_email.test_remetente_invalido&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_marginTradingCalc_GUI.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_enviador_de_email.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pycrypto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_marginTradingCalc_GUI/test_marginTradingCalc_GUI.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam/test_enviador_de_email.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_enviador_de_email.test_remetente_invalido" />
+        <item itemvalue="Python tests.pytest for test_enviador_de_email.test_remetente" />
+        <item itemvalue="Python tests.pytest in test_enviador_de_email.py" />
         <item itemvalue="Python.marginTradingCalculation_GUI_v1" />
         <item itemvalue="Python.logicaDeProgramacao" />
-        <item itemvalue="Python tests.pytest in test_marginTradingCalc_GUI.py" />
-        <item itemvalue="Python tests.pytest in test_marginTradingCalc_GUI" />
-        <item itemvalue="Python tests.pytest for marginTrading.tests.test_marginTradingCalc_GUI.test_marginTradingCalc_GUI.test_mt_calculation" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +430,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628109236078</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added Exercise Files">
+      <created>1628109812052</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1628109812052</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added Exercise Files">
+      <created>1628109894191</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1628109894191</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">

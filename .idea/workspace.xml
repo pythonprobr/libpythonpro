@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings/1_exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/.idea/exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/.idea/exercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/variousCodes/.idea/variousCodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/variousCodes/.idea/variousCodes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libpythonpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libpythonpro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pycrypto/marginTrading/spam/enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/spam/enviador_de_email.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam/test_enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +74,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pycrypto/marginTrading/spam/enviador_de_email.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../pycrypto/setup.py" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -82,11 +87,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\14 - Dev\Python\Projetos\exercises\pythonBrasil\6 ExerciciosComStrings" />
       <recent name="E:\14 - Dev\Python\Projetos\exercises" />
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\marginTrading\tests" />
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\marginTrading\tests\test_marginTradingCalc_GUI" />
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto" />
-      <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pythonBrasil\5 ExerciciosFuncoes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\14 - Dev\Python\Projetos\exercises" />
@@ -96,20 +101,83 @@
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\variousCodes\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_enviador_de_email.test_remetente_invalido">
-    <configuration name="logicaDeProgramacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="variousCodes" />
+  <component name="RunManager" selected="Python.marginTradingCalculation_GUI_v1">
+    <configuration name="12_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../variousCodes/pyModules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../variousCodes/pyModules/logicaDeProgramacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings/12_exercicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\14 - Dev\Python\Projetos\exercises\pythonBrasil\6 ExerciciosComStrings\5_exercicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings/6_exercicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/pythonBrasil/6 ExerciciosComStrings/7_exercicio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,61 +228,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_enviador_de_email.test_remetente" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pycrypto" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_enviador_de_email.test_remetente&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_enviador_de_email.test_remetente_invalido" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pycrypto" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_enviador_de_email.test_remetente_invalido&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_enviador_de_email.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pycrypto" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam/test_enviador_de_email.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_enviador_de_email.test_remetente_invalido" />
-        <item itemvalue="Python tests.pytest for test_enviador_de_email.test_remetente" />
-        <item itemvalue="Python tests.pytest in test_enviador_de_email.py" />
         <item itemvalue="Python.marginTradingCalculation_GUI_v1" />
-        <item itemvalue="Python.logicaDeProgramacao" />
+        <item itemvalue="Python.12_exercicio" />
+        <item itemvalue="Python.7_exercicio" />
+        <item itemvalue="Python.6_exercicio" />
+        <item itemvalue="Python.5_exercicio" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628109894191</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Added Error Exception">
+      <created>1628170128591</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1628170128591</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -531,6 +558,16 @@
     <MESSAGE value="Inserido teste com PyTest&#10;&#10;close Issue #3" />
     <MESSAGE value="Codecov added to the project&#10;&#10;close #3" />
     <MESSAGE value="Added Exercise Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Exercise Files" />
+    <MESSAGE value="Added Error Exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Error Exception" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="nome" />
+        <watch expression="aux" />
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -4,5 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="exercises" />
+    <orderEntry type="module" module-name="pyprojects" />
   </component>
 </module>

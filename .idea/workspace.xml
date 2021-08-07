@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/11_exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/12_exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/13_exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/14_exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/15_exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/16_exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/3_exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/4_exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/8_exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/9_exercicio.py" afterDir="false" />
+    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="Added more exercises">
+      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/17_exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/18_exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/2 EstruturaDeDecisao/19_exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/2 EstruturaDeDecisao/21_exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercises/variousCodes/tryExcept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyprojects/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyprojects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyprojects/.idea/pyprojects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyprojects/sysInfo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyprojects/sysInfo/sysinfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/16_exercicio.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/16_exercicio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libpythonpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libpythonpro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +56,7 @@
         <entry key="$PROJECT_DIR$/../pycrypto" value="testBranch" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../exercises" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pyprojects" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -79,7 +83,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyprojects" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../pycrypto/setup.py" />
   </component>
@@ -92,11 +96,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\14 - Dev\Python\Projetos\exercises\pythonBrasil\2 EstruturaDeDecisao" />
       <recent name="E:\14 - Dev\Python\Projetos\exercises\pythonBrasil\1 EstruturaSequencial" />
       <recent name="E:\14 - Dev\Python\Projetos\exercises\pythonBrasil\6 ExerciciosComStrings" />
       <recent name="E:\14 - Dev\Python\Projetos\exercises" />
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\marginTrading\tests" />
-      <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\marginTrading\tests\test_marginTradingCalc_GUI" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\14 - Dev\Python\Projetos\exercises" />
@@ -106,104 +110,20 @@
       <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\variousCodes\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.16_exercicio">
-    <configuration name="12_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
+  <component name="RunManager" selected="Python.sysinfo">
+    <configuration name="marginTradingCalculation_GUI_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycrypto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/12_exercicio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="13_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/13_exercicio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="14_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/14_exercicio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="15_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/15_exercicio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="16_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/pythonBrasil/1 EstruturaSequencial/16_exercicio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,13 +153,87 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sysinfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="variousCodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/variousCodes/sysInfo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/variousCodes/sysInfo/sysinfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tryExcept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="variousCodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exercises/variousCodes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exercises/variousCodes/tryExcept.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_marginTradingCalc_GUI.test_res_window" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pycrypto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_marginTradingCalc_GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_marginTradingCalc_GUI.test_res_window&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_marginTradingCalc_GUI.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pycrypto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_marginTradingCalc_GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_marginTradingCalc_GUI/test_marginTradingCalc_GUI.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.16_exercicio" />
-        <item itemvalue="Python.15_exercicio" />
-        <item itemvalue="Python.14_exercicio" />
-        <item itemvalue="Python.13_exercicio" />
-        <item itemvalue="Python.12_exercicio" />
+        <item itemvalue="Python.sysinfo" />
+        <item itemvalue="Python.marginTradingCalculation_GUI_v1" />
+        <item itemvalue="Python.tryExcept" />
+        <item itemvalue="Python tests.pytest for test_marginTradingCalc_GUI.test_res_window" />
+        <item itemvalue="Python tests.pytest in test_marginTradingCalc_GUI.py" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628285907201</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Added more exercises">
+      <created>1628300702205</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1628300702205</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -578,7 +579,8 @@
     <MESSAGE value="Codecov added to the project&#10;&#10;close #3" />
     <MESSAGE value="Added Exercise Files" />
     <MESSAGE value="Added Error Exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Error Exception" />
+    <MESSAGE value="Added more exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more exercises" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

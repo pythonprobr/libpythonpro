@@ -1,0 +1,12 @@
+flake8==3.9.2
+mccabe==0.6.1
+pycodestyle==2.7.0
+pyflakes==2.3.1
+py==1.8.2
+
+#dependencias do pytest
+attrs==21.2.0
+atomicwrites==1.4.0
+six==1.16
+pluggy==0.13.1
+-r requirements.txt

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../exercises/.idea/exercises.iml" filepath="$PROJECT_DIR$/../exercises/.idea/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/libpythonpro.iml" filepath="$PROJECT_DIR$/.idea/libpythonpro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pycrypto/.idea/pycrypto.iml" filepath="$PROJECT_DIR$/../pycrypto/.idea/pycrypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyprojects/.idea/pyprojects.iml" filepath="$PROJECT_DIR$/../pyprojects/.idea/pyprojects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercises/variousCodes/.idea/variousCodes.iml" filepath="$PROJECT_DIR$/../exercises/variousCodes/.idea/variousCodes.iml" />
+    </modules>
+  </component>
+</project>

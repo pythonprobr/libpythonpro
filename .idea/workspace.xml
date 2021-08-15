@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../pycrypto/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycrypto/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycrypto/requirements-dev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycrypto/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/../pycrypto" source="testBranch" />
+                <branch-info repo="$PROJECT_DIR$/../pycrypto" source="devBranch" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../pycrypto" value="main" />
+        <entry key="$PROJECT_DIR$/../pyprojects" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pycrypto" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c6ea6fa4-bdbe-4b10-ba03-9e5431ab027d" />
+        <option name="url" value="git@github.com:sambiase/pycrypto.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_marginTradingCalc_GUI/test_marginTradingCalc_GUI.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_exemplo.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1vj3zM22aFqL1mjNGuFi5QAoayu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pycrypto/marginTrading" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../pycrypto/setup.py" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\14 - Dev\Python\Projetos\pycrypto\marginTrading" />
+      <recent name="E:\14 - Dev\Python\Projetos\exercises\variousCodes\tryExcept" />
+      <recent name="E:\14 - Dev\Python\Projetos\exercises\pythonBrasil\3 EstruturaDeRepeticao" />
+      <recent name="E:\14 - Dev\Python\Projetos\exercises\pythonBrasil\2 EstruturaDeDecisao" />
+      <recent name="E:\14 - Dev\Python\Projetos\exercises\pythonBrasil\1 EstruturaSequencial" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\14 - Dev\Python\Projetos\exercises\variousCodes\tryExcept" />
+      <recent name="E:\14 - Dev\Python\Projetos\pyprojects" />
+      <recent name="E:\14 - Dev\Python\Projetos\exercises" />
+      <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\marginTrading\tests\test_marginTradingCalc" />
+      <recent name="E:\15 - Cloud Storage\Google Drive\Documents\01 - MY DOCUMENTS\Dev\Projetos\pycrypto\marginTrading\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.marginTradingCalc">
+    <configuration name="marginTradingCalc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycrypto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="marginTradingCalculation_GUI_v2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycrypto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pycrypto/marginTrading/marginTradingCalculation_GUI_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="marginTradingCalculation_GUI_v2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pycrypto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/margingTrading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pycrypto/margingTrading/marginTradingCalculation_GUI_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_github_api.teste_buscar_avatar" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pycrypto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_github_api.teste_buscar_avatar&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_github_api.teste_buscar_avatar_integracao" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pycrypto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_github_api.teste_buscar_avatar_integracao&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_github_api.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pycrypto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../pycrypto/marginTrading/tests/test_spam/test_github_api.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.marginTradingCalc" />
+        <item itemvalue="Python.marginTradingCalculation_GUI_v2 (1)" />
+        <item itemvalue="Python tests.pytest in test_github_api.py" />
+        <item itemvalue="Python tests.pytest for test_github_api.teste_buscar_avatar_integracao" />
+        <item itemvalue="Python tests.pytest for test_github_api.teste_buscar_avatar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b24f0eb2-4b1b-48aa-ad40-02e518435ae2" name="Default Changelist" comment="" />
+      <created>1627061933494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627061933494</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Changed JDK">
+      <created>1627062896784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627062896784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed JDK">
+      <created>1627409597146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627409597146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed JDK">
+      <created>1627474274259</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627474274259</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changed JDK">
+      <created>1627474490585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627474490585</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed App Code">
+      <created>1627499711326</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627499711326</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Renamed module name">
+      <created>1627647143909</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627647143909</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Bug fixed">
+      <created>1627653222596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627653222597</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Bug fixed">
+      <created>1627653299638</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627653299638</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Flake 8 Review">
+      <created>1627683036908</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627683036908</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Flake 8 Review">
+      <created>1627685493772</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627685493772</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Flake 8 Review">
+      <created>1627852284976</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1627852284976</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627922621520</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627922621520</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627922910683</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1627922910683</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627923123691</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627923123691</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627923291055</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627923291055</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627923621903</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1627923621903</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627923720113</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1627923720114</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627934423862</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627934423862</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1627934616459</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1627934616459</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Inserido teste com PyTest&#10;&#10;close Issue #3">
+      <created>1628003247945</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1628003247946</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Codecov added to the project&#10;&#10;close #3">
+      <created>1628011354520</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1628011354520</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Codecov added to the project&#10;&#10;close #3">
+      <created>1628012055725</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1628012055725</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Codecov added to the project&#10;&#10;close #3">
+      <created>1628012397490</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1628012397490</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Codecov added to the project&#10;&#10;close #3">
+      <created>1628018783627</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1628018783627</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Codecov added to the project&#10;&#10;close #3">
+      <created>1628107610569</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1628107610569</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added Exercise Files">
+      <created>1628108744392</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1628108744392</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added Exercise Files">
+      <created>1628108804093</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1628108804093</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added Exercise Files">
+      <created>1628109143150</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1628109143150</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added Exercise Files">
+      <created>1628109236078</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1628109236078</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added Exercise Files">
+      <created>1628109812052</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1628109812052</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added Exercise Files">
+      <created>1628109894191</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1628109894191</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added Error Exception">
+      <created>1628170128591</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1628170128591</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added Error Exception">
+      <created>1628285743297</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1628285743297</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added Error Exception">
+      <created>1628285907201</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1628285907201</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added more exercises">
+      <created>1628300702205</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1628300702205</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added sysInfo">
+      <created>1628374594157</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1628374594157</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added sysInfo">
+      <created>1628540037156</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1628540037156</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added sysInfo">
+      <created>1628634965490</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1628634965490</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added sysInfo">
+      <created>1628635280605</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1628635280605</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added sysInfo">
+      <created>1628789642356</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1628789642356</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added sysInfo">
+      <created>1628855340907</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1628855340907</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added @fixture">
+      <created>1628856296647</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1628856296647</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Added @fixture">
+      <created>1628893716193</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1628893716193</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="E:\14 - Dev\Python\Projetos" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="0bae6366-81a4-45cd-a386-d658063705e1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="testBranch..main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../pycrypto" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="4f58f913-1136-4d9f-8635-f8bbde746931">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="testBranch..main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../pycrypto" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Changed JDK" />
+    <MESSAGE value="Changed App Code" />
+    <MESSAGE value="Renamed module name" />
+    <MESSAGE value="Bug fixed" />
+    <MESSAGE value="Flake 8 Review" />
+    <MESSAGE value="Inserido teste com PyTest&#10;&#10;close Issue #3" />
+    <MESSAGE value="Codecov added to the project&#10;&#10;close #3" />
+    <MESSAGE value="Added Exercise Files" />
+    <MESSAGE value="Added Error Exception" />
+    <MESSAGE value="Added more exercises" />
+    <MESSAGE value="Added sysInfo" />
+    <MESSAGE value="Added @fixture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added @fixture" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="sessao.listar()" />
+      </configuration>
+      <configuration name="PythonConfigurationType">
+        <watch expression="nome" />
+        <watch expression="aux" />
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

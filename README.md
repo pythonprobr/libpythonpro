@@ -1,6 +1,6 @@
 # libpythonpro
 
-
+link do curso : https://plataforma.dev.pro.br/31287-pytools/695923-pull-request-nao-aceito
 
 Módulo para exemplificar construção de projetos Python no curso PyTools
 

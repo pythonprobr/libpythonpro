@@ -2,6 +2,8 @@
 
 link do curso : https://plataforma.dev.pro.br/31287-pytools/695923-pull-request-nao-aceito
 
+novo link : https://plataforma.dev.pro.br/31287-pytools/695924-feature-branch
+
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
@@ -13,7 +15,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
 [![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
 
-Suportada versão 3 de Python
+Suportada versão 3 de Python...
 
 Para instalar:
 

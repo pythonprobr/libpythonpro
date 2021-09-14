@@ -2,7 +2,7 @@
 
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
-Nesse curso é ensinado como contribuir com projetos OPEN SOURCE.
+Nesse curso é ensinado como contribuir com projetos OPEN SOURCE
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 

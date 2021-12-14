@@ -23,7 +23,7 @@ pipenv install --dev
 Para conferir qualidade de código:
 
 ```console
-pipenv run flake8
+flake8
 ```
 
 Tópicos a serem abordados:

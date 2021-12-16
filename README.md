@@ -11,6 +11,9 @@ Suportada versão 3 de Python
 Para instalar:
 
 ```console
+python3 -m venv .venv
+.venv\Sctripts\activate
+pip install -r reqirements-dev.txt
 pip install pipenv
 pipenv install --dev
 ```

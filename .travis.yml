@@ -4,8 +4,7 @@ python:
   - 3.10.0
   - 3.10.1
 install:
-  - pip install -r requirements-dev.txt
-  - pip install -q pipenv codecov
+  - pip install -q -r pipenv codecov
   - pipenv sync --dev
 script:
   - flake8

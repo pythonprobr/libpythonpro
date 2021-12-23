@@ -1,0 +1,13 @@
+language: python
+python:
+  - 3.7
+  - 3.10.0
+  - 3.10.1
+install:
+  - pip install -q -r pipenv codecov
+  - pipenv sync --dev
+script:
+  - flake8
+  - pytest libpythonpro --cov=libpythonpro
+after_success:
+  - codecov

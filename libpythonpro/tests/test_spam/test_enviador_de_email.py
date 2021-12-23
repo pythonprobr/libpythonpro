@@ -10,13 +10,13 @@ def test_criar_enviador_de_email():
 
 @pytest.mark.parametrize(
     'remetente',
-    ['foo@bar.com.br', 'renzo@python.pro.br']
+    ['foo@bar.com.br', 'houston_cam@msn.com']
 )
 def test_remetente(remetente):
     enviador = Enviador()
     resultado = enviador.enviar(
         remetente,
-        'luciano@python.pro.br',
+        'houston_cam@msn.com',
         'Cursos Python Pro',
         'Primeira turma Guido Von Rossum aberta.'
     )
@@ -25,14 +25,14 @@ def test_remetente(remetente):
 
 @pytest.mark.parametrize(
     'remetente',
-    ['', 'renzo']
+    ['', 'Rawston']
 )
 def test_remetente_invalido(remetente):
     enviador = Enviador()
     with pytest.raises(EmailInvalido):
         enviador.enviar(
             remetente,
-            'luciano@python.pro.br',
+            'houston_cam@msn.com',
             'Cursos Python Pro',
             'Primeira turma Guido Von Rossum aberta.'
         )

@@ -32,7 +32,7 @@ def test_remetente_invalido(remetente):
     with pytest.raises(EmailInvalido):
         enviador.enviar(
             remetente,
-            'houston_cam@msn.com',
+            'rawstonmpinto@gmail.com',
             'Cursos Python Pro',
             'Primeira turma Guido Von Rossum aberta.'
         )

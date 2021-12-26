@@ -10,11 +10,11 @@ from libpythonpro.spam.modelos import Usuario
     'usuarios',
     [
         [
-            Usuario(nome='Renzo', email='renzo@python.pro.br'),
-            Usuario(nome='Luciano', email='renzo@python.pro.br')
+            Usuario(nome='Rawston', email='houston_cam@msn.com'),
+            Usuario(nome='Marinho', email='rawstonmpinto@gmail.com')
         ],
         [
-            Usuario(nome='Renzo', email='renzo@python.pro.br')
+            Usuario(nome='Rawston', email='houston_cam@msn.com')
         ]
     ]
 )
@@ -24,7 +24,7 @@ def test_qde_de_spam(sessao, usuarios):
     enviador = Mock()
     enviador_de_spam = EnviadorDeSpam(sessao, enviador)
     enviador_de_spam.enviar_emails(
-        'renzo@python.pro.br',
+        'houston_cam@msn.com',
         'Curso Python Pro',
         'Confira os módulos fantásticos'
     )
@@ -32,18 +32,18 @@ def test_qde_de_spam(sessao, usuarios):
 
 
 def test_parametros_de_spam(sessao):
-    usuario = Usuario(nome='Renzo', email='renzo@python.pro.br')
+    usuario = Usuario(nome='Rawston', email='houston_cam@msn.com')
     sessao.salvar(usuario)
     enviador = Mock()
     enviador_de_spam = EnviadorDeSpam(sessao, enviador)
     enviador_de_spam.enviar_emails(
-        'luciano@python.pro.br',
+        'rawstonmpinto@gmail.com',
         'Curso Python Pro',
         'Confira os módulos fantásticos'
     )
     enviador.enviar.assert_called_once_with(
-        'luciano@python.pro.br',
-        'renzo@python.pro.br',
+        'rawstonmpinto@gmail.com',
+        'houston_cam@msn.com',
         'Curso Python Pro',
         'Confira os módulos fantásticos'
     )

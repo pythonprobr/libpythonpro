@@ -6,9 +6,11 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
-[![Build Status](https://app.travis-ci.com/valmeida90/libpythonpro.svg?branch=master)](https://app.travis-ci.com/valmeida90/libpythonpro)
 
+[![Updates](https://pyup.io/repos/github/valmeida90/libpythonpro/shield.svg)](https://pyup.io/repos/github/valmeida90/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/valmeida90/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/valmeida90/libpythonpro/)
 Suportada versão 3 de Python
+
 
 Para instalar:
 

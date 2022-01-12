@@ -4,8 +4,6 @@ on: [ push ]
 
 jobs:
   build:
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     runs-on: ubuntu-latest
 
@@ -23,3 +21,4 @@ jobs:
         uses: py-actions/flake8@v1
         with:
           checkName: 'flake8_py3'   # NOTE: this needs to be the same as the job name
+      - name: Relatório Coverage

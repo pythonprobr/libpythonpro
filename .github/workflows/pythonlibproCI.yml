@@ -1,0 +1,24 @@
+name: Test
+
+on: [ push ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.9
+          architecture: x64
+      - name: Instalar dependências
+        run: |
+          pip install -q -r requirements-dev.txt
+      - name: Rodar flake8
+        uses: py-actions/flake8@v1
+        with:
+          checkName: 'flake8_py3'   # NOTE: this needs to be the same as the job name
+      - name: Relatório Coverage

@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
+1. Pip
+
 [![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)
 [![Updates](https://pyup.io/repos/github/pythonprobr/libpythonpro/shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)

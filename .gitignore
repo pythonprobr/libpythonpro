@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#pychar files
+.idea
+.classpath
+.project
+.settings/
+bin
+*.sqlite3

@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://plataforma.dev.pro.br/)
 
+[![Build Status](https://app.travis-ci.com/GuilhermeePires/libpythonpro.svg?branch=master)](https://app.travis-ci.com/GuilhermeePires/libpythonpro)
+
 Suportada versão 3 de python
 
 Para instalar:

@@ -6,6 +6,23 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://plataforma.dev.pro.br/)
 
+Suportada versão 3 de python
+
+Para instalar:
+
+'''console
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements-dev.txt
+'''
+
+Para conferir qualidade do código:
+
+'''
+console 
+flake8
+'''
+
 [![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)
 [![Updates](https://pyup.io/repos/github/pythonprobr/libpythonpro/shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)

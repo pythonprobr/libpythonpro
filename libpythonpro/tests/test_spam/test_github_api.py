@@ -8,9 +8,9 @@ from libpythonpro import github_api
 @pytest.fixture
 def avatar_url(mocker):
     resp_mock = Mock()
-    url = 'https://avatars3.githubusercontent.com/u/402714?v=4'
+    url = 'https://avatars.githubusercontent.com/u/102936883?v=4'
     resp_mock.json.return_value = {
-        'login': 'renzo', 'id': 402714,
+        'login': 'GuilhermeePires', 'id': 102936883,
         'avatar_url': url,
     }
     get_mock = mocker.patch('libpythonpro.github_api.requests.get')
@@ -19,10 +19,10 @@ def avatar_url(mocker):
 
 
 def test_buscar_avatar(avatar_url):
-    url = github_api.buscar_avatar('renzo')
+    url = github_api.buscar_avatar('GuilhermeePires')
     assert avatar_url == url
 
 
 def test_buscar_avatar_integracao():
-    url = github_api.buscar_avatar('renzon')
-    assert 'https://avatars3.githubusercontent.com/u/3457115?v=4' == url
+    url = github_api.buscar_avatar('GuilhermeePires')
+    assert 'https://avatars.githubusercontent.com/u/102936883?v=4' == url

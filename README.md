@@ -11,7 +11,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
 [![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
 
-Suportada versão 3 de Python
+Suportada versão 3.9 de Python
 
 Para instalar:
 
@@ -33,3 +33,4 @@ Tópicos a serem abordados:
  4. Mock
  5. Pipenv
  
+aprendendo a fazer contribuição!!!

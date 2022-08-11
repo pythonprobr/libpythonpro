@@ -34,3 +34,5 @@ Tópicos a serem abordados:
  5. Pipenv
  
 Revisando aula sobre Fork.
+
+Link do Curso [Python pro](https://pythonpro.com.br/)

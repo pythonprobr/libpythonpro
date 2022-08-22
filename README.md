@@ -16,14 +16,15 @@ Suportada versão 3 de Python Carlinhos
 Para instalar:
 
 ```console
-pip install pipenv
-pipenv install --dev
+python3 -m venv .venv
+source .venv/bin/activete
+pip install -r requirements-dev.txt
 ```
 
 Para conferir qualidade de código:
 
 ```console
-pipenv run flake8
+flake8
 ```
 
 Tópicos a serem abordados:

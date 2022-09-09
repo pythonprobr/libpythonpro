@@ -11,19 +11,21 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
 [![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
 
-Suportada versão 3 de Python
+
+Suportada versão 3 de Python Carlinhos
 
 Para instalar:
 
 ```console
-pip install pipenv
-pipenv install --dev
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
 ```
 
 Para conferir qualidade de código:
 
 ```console
-pipenv run flake8
+flake8
 ```
 
 Tópicos a serem abordados:
@@ -33,3 +35,6 @@ Tópicos a serem abordados:
  4. Mock
  5. Pipenv
  
+Revisando aula sobre Fork.
+
+Link do Curso [Python pro](https://pythonpro.com.br/)

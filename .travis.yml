@@ -3,6 +3,8 @@ python:
   - 3.10
   - 2.7
   install:
-  - pip install  -q -r requirements-dev.txt
+  - pip install  -q -r requirements-dev.txt codecov
   - flake8
-  - pytest Libpythonpro Carlos
+  - pytest Libpythonpro --cov=libpythonpro-1
+after_success:
+  - codecov

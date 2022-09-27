@@ -34,12 +34,12 @@ class Conexao:
         pass
 
 
-@pytest.fixture(scope= 'session')
+@pytest.fixture(scope='session')
 def conexao():
-    #Setup
+    # Setup
     conexao_obj = Conexao()
     yield conexao_obj
-    #Tear Down
+    # Tear Down
     conexao_obj.fechar()
 
 
@@ -49,3 +49,12 @@ def sessao(conexao):
     yield sessao_obj
     sessao_obj.roll_back()
     sessao_obj.fechar()
+
+
+
+
+
+
+
+
+

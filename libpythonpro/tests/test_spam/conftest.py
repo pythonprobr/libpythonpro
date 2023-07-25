@@ -21,4 +21,3 @@ def sessao(conexao):
     # Tear Down
     sessao_obj.roll_back()
     sessao_obj.fechar()
-
